@@ -18,3 +18,6 @@
 5. Connected to database
 
 ![successfully connected to database](https://user-images.githubusercontent.com/101065505/197892288-4dabfe71-e011-4f91-823e-58f12ece1749.png)
+
+6. Testing Express Page 0n port 5000
+![loading express welcome page on port 5000](https://user-images.githubusercontent.com/101065505/197893425-6b22b61f-a282-4ba0-bc54-cf4920e32e54.png)
