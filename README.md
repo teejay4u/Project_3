@@ -4,6 +4,6 @@
 
 
 
-![installing nodejs package](https://user-images.githubusercontent.com/101065505/197886175-672abcf1-d1b5-4bd5-a2ac-2703b2fdb92a.png)
-
+![installing nodejs package
+](https://user-images.githubusercontent.com/101065505/197886175-672abcf1-d1b5-4bd5-a2ac-2703b2fdb92a.png)
 __sudo apt-get install -y nodejs__
