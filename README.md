@@ -24,3 +24,6 @@
 
 7. Creating a POST action with Postman 
 ![creating a POST action with postman](https://user-images.githubusercontent.com/101065505/197894015-d8734419-858c-469b-8fe9-ca0d75e91c2b.png)
+
+8. Creating React-app
+![creating react-app](https://user-images.githubusercontent.com/101065505/197894707-dc541f25-fb50-4e1b-ae84-a2b990af6e51.png)
