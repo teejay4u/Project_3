@@ -10,3 +10,7 @@
 1. Installing Express package (**npm install express) 
 
 ![installing Express](https://user-images.githubusercontent.com/101065505/197888618-ae4a2cd2-f044-4b29-8a0c-8ccf69e45a1d.png)
+
+1. Creating application folder and installing app dependencies
+
+![Creating application folder](https://user-images.githubusercontent.com/101065505/197890021-09ce8c1f-823a-470c-a6fa-7bac3fe4d948.png)
