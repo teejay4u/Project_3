@@ -21,3 +21,6 @@
 
 6. Testing Express Page 0n port 5000
 ![loading express welcome page on port 5000](https://user-images.githubusercontent.com/101065505/197893425-6b22b61f-a282-4ba0-bc54-cf4920e32e54.png)
+
+7. Creating a POST action with Postman 
+![creating a POST action with postman](https://user-images.githubusercontent.com/101065505/197894015-d8734419-858c-469b-8fe9-ca0d75e91c2b.png)
