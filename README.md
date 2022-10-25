@@ -28,3 +28,6 @@
 8. Creating React-app
 
 ![creating react-app](https://user-images.githubusercontent.com/101065505/197894707-dc541f25-fb50-4e1b-ae84-a2b990af6e51.png)
+
+9. Testing Front-end default page
+![front end loadpage](https://user-images.githubusercontent.com/101065505/197895280-da07baec-bfef-4b80-963f-de2c56a0def1.png)
